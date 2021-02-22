@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # local apps
     'clubs.apps.ClubsConfig',
+    'conversions.apps.ConversionsConfig',
 ]
 
 MIDDLEWARE = [
